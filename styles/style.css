@@ -190,6 +190,12 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 2px;
+    transform: rotate(-13deg);
+}
+.right-img{
+    width: 25rem;
+    transform: rotate(12deg);
 }
 /* about-project */
 #about{
@@ -929,7 +935,9 @@ footer .widget ul {
     }
     .mr-text{
         height: 70px;
-        
+    }
+    .right-img{
+        width: 20rem;
     }
     /* about project */
     .about-project h2{
