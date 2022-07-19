@@ -947,6 +947,9 @@ footer .widget ul {
 
 
     /* cards */
+    #main{
+        height: 100%;
+    }
     .cards .container{
 		grid-template-columns: repeat(1,1fr);
 		justify-items: center;
